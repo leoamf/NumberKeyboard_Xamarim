@@ -1,0 +1,11 @@
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/bin/Debug/netstandard2.0/NumberKeyboard_Xamarim.deps.json
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/bin/Debug/netstandard2.0/NumberKeyboard_Xamarim.dll
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/bin/Debug/netstandard2.0/NumberKeyboard_Xamarim.pdb
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/obj/Debug/netstandard2.0/NumberKeyboard_Xamarim.csprojAssemblyReference.cache
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/obj/Debug/netstandard2.0/NumberKeyboard_Xamarim.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/obj/Debug/netstandard2.0/NumberKeyboard_Xamarim.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/obj/Debug/netstandard2.0/NumberKeyboard_Xamarim.AssemblyInfo.cs
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/obj/Debug/netstandard2.0/NumberKeyboard_Xamarim.dll
+/Users/aluno/Desktop/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/NumberKeyboard_Xamarim/obj/Debug/netstandard2.0/NumberKeyboard_Xamarim.pdb
