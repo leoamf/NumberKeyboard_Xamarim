@@ -1,16 +1,15 @@
 ﻿<Properties StartupConfiguration="{3B6D9094-9FD8-43F1-8D77-3A9B269F8084}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="NumberKeyboard_Xamarim/MainPage.cs">
     <Files>
-      <File FileName="NumberKeyboard_Xamarim/MainPage.cs" Line="9" Column="13" />
+      <File FileName="NumberKeyboard_Xamarim/MainPage.cs" Line="10" Column="61" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.NumberKeyboard__Xamarim.iOS FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.NumberKeyboard__Xamarim FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.NumberKeyboard__Xamarim.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.NumberKeyboard__Xamarim.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
 </Properties>
